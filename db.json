@@ -1,6 +1,5 @@
 {
-    "factura":[
-        {
+    "factura":[{
             "num_factura":"fac_01",
             "num_documento":"111",
             "nombre":"Usagi 1",
