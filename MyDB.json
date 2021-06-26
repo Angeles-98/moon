@@ -1,0 +1,65 @@
+{
+    "factura":[{
+            "num_factura":"fac_01",
+            "num_documento":"111",
+            "nombre":"Usagi 1",
+            "telefono":"111",
+            "valor":"4000",
+            "descripcion":"Usagi 1",
+            "pass":"pastel1"
+        },
+        {
+            "num_factura":"fac_02",
+            "num_documento":"222",
+            "nombre":"Usagi 2",
+            "telefono":"222",
+            "valor":"6000",
+            "descripcion":"Usagi 2",
+            "pass":"pastel2"
+        },
+        {
+            "num_factura":"fac_03",
+            "num_documento":"333",
+            "nombre":"Usagi 3",
+            "telefono":"333",
+            "valor":"13000",
+            "descripcion":"Usagi 3",
+            "pass":"pastel3"
+        },{
+            "num_factura":"fac_04",
+            "num_documento":"444",
+            "nombre":"Usagi 4",
+            "telefono":"444",
+            "valor":"4500",
+            "descripcion":"Usagi 4",
+            "pass":"pastel4"
+        },
+        {
+            "num_factura":"fac_05",
+            "num_documento":"555",
+            "nombre":"Usagi 5",
+            "telefono":"555",
+            "valor":"7000",
+            "descripcion":"Usagi 5",
+            "pass":"pastel5"
+        },
+        {
+            "num_factura":"fac_06",
+            "num_documento":"444",
+            "nombre":"Usagi 4",
+            "telefono":"444",
+            "valor":"1500",
+            "descripcion":"Usagi 4",
+            "pass":"pastel4"
+        },
+        {
+            "num_factura":"fac_07",
+            "num_documento":"777",
+            "nombre":"Usagi 7",
+            "telefono":"777",
+            "valor":"8000",
+            "descripcion":"Usagi 7",
+            "pass":"pastel7"
+        },
+    ]
+}
