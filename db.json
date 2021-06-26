@@ -25,7 +25,8 @@
             "valor":"13000",
             "descripcion":"Usagi 3",
             "pass":"pastel3"
-        },{
+        },
+               {
             "num_factura":"fac_04",
             "num_documento":"444",
             "nombre":"Usagi 4",
@@ -60,6 +61,6 @@
             "valor":"8000",
             "descripcion":"Usagi 7",
             "pass":"pastel7"
-        },
+        }
     ]
 }
